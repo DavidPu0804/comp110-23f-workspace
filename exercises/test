@@ -1,0 +1,11 @@
+a: str= "a"
+b: str= "b"
+c: str = a
+
+a=b
+b=c
+
+if a==c:
+    print("red")
+else:
+    print("blue")

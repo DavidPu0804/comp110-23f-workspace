@@ -1,5 +1,6 @@
 """Ex02 one shot wordle - w wordle."""
 __author__ = "730672573"
+print("\U0001F7E9" * 6)
 secret_word: str = "python"
 length: int = len(secret_word)
 "users quess of the word"
